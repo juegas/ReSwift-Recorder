@@ -1,1 +1,2 @@
-github "ReSwift/ReSwift" "benji/convert-store-to-open"
+git "https://github.com/juegas/ReSwift.git" "master"
+
